@@ -15,5 +15,7 @@ function ui(a, b) {
 }
 
 function game(a, b) {
-    return a;
+    return a*2+4;
 }
+
+
